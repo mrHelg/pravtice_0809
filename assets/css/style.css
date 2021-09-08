@@ -48,3 +48,15 @@ a{
 .list-item:hover>.sub-nav-list{
   display: block;
 }
+
+.sub-list-item:hover>.sub-categories{
+  display: block;
+}
+
+.sub-categories{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  left: 100%;
+  display: none;
+}
