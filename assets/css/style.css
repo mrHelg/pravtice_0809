@@ -49,14 +49,13 @@ a{
   display: block;
 }
 
-.sub-list-item:hover>.sub-categories{
+/* .sub-nav-list:hover>.sub-list-item{
   display: block;
-}
-
-.sub-categories{
-  position: absolute;
+} */
+.right-move{
+  /* position: absolute; */
+  left: 100%;
   top: 0;
   width: 100%;
-  left: 100%;
-  display: none;
+  
 }
